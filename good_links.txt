@@ -1,0 +1,4 @@
+ML:
+Pricing optimisation: https://www.kaggle.com/competitions/mercari-price-suggestion-challenge/code
+gesstiamtes: https://www.linkedin.com/posts/shakra-shamim-8ab3a1233_guesstimate-guesstimate-activity-7111713203448926208-5rHO?utm_source=share&utm_medium=member_desktop
+regression analysis: https://www.mygreatlearning.com/academy/learn-for-free/courses/regression-analysis-with-excel-hands-on?gl-blog_id=20944

@@ -1,0 +1,2 @@
+Q1. How do you decide best accuracy and metric of the model?
+Ans: On comparison with human accuracy.
