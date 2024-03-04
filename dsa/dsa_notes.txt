@@ -1,0 +1,6 @@
+To approach a problem:
+1. understand the problem.
+2. come up with the basic approach/ good approach for the available test cases.
+3. run through test cases.
+4. NO INCREMENTAL CODING DURING INTERVIEWS, therefore, define everything before going to code.
+5.  
